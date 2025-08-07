@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "Ahmed",
+        "age": "20",
+        "city": "Riyad",
+        "Average": "16.77"
+    },
+    {
+        "id": "2",
+        "name": "Asma",
+        "age": "20",
+        "city": "Montreal",
+        "Average": "13.07"
+    },
+    {
+        "id": "3",
+        "name": "Meryem",
+        "age": "20",
+        "city": "Doha",
+        "Average": "14.97"
+    },
+    {
+        "id": "4",
+        "name": "Yasser",
+        "age": "20",
+        "city": "Doha",
+        "Average": "11.11"
+    }
+]
